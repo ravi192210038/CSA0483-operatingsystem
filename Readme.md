@@ -1,4 +1,4 @@
-1.systen calls currently running process and parent display same.\n
+1.systen calls currently running process and parent display same.\
 Algorithm:-
 step1:Include necessary header files like stdio.h,stdlib.h,unistd.h,sys/types.h
 step2:-use the fork()system call to create new process
