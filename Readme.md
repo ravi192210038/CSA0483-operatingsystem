@@ -54,3 +54,29 @@ step2:-Initialise variables\
 step3:-process scheduling\
 step4:-display output\
 step5:-End of program
+
+7.cprogram to implement nonpreemptive sjf algorithm\
+Algorithm:-\
+step1:-Input(Enter number of process)\
+step2:-sort the process based on their burst time in ascending order\
+step3:-Initialisation
+step4:-for each process from 1 to n\
+step5:-calculate average waiting time\
+step6:-calculate average turnaroundtime\
+step7:-End of program
+
+8.cprogram to simulate roundrobin scheduling algorithm with c\
+Algorithm:-\
+step1:-Input(number of processes)\
+step2:-Initialise an empty queue to store process\
+step3:-while there are processed in queue or any process has remaining bursttime\
+step4:-End of program
+
+9.the concept of interprocess communication using shared memory with c program\
+Algorithm:-
+step1:-create shared memory segment to process\
+step2:-Attach share memory segment to process\
+step3:-Read\write data to\from sharedmemory\
+step4:-Detach share memory segment\
+step5:-Remove shared memory segment\
+step6:-End of program
