@@ -80,3 +80,29 @@ step3:-Read\write data to\from sharedmemory\
 step4:-Detach share memory segment\
 step5:-Remove shared memory segment\
 step6:-End of program
+
+10.cprogram for interprocessing communication using messagequeue\
+Algorithm:-\
+step1:-create a message queue\
+step2:-send a message\
+step3:-Recieve a message\
+step4:-Remove the message queue\
+step5:-End of program
+
+11.c program for multithreading
+Algoritm:-\
+step1:-Include necessary header file\
+step2:-Define the threadfunction\
+step3:-create threads\
+step4:-join threads\
+step5:-compile and run program\
+step6:-End of program
+
+12.cprogram for Dining Philosophers problem\
+Algorithm:-\
+step1:-Initialization\
+step2:-philospher behaviour\
+step3:-Handling forks\
+step4:-synchronization\
+step5:-Implementation using loop\
+step6:-End of program
