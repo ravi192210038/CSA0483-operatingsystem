@@ -106,3 +106,30 @@ step3:-Handling forks\
 step4:-synchronization\
 step5:-Implementation using loop\
 step6:-End of program
+
+13. c program for various memory allocation strategies\
+14. Algorithm:-\
+15. step1:-Input(enter memorysize)\
+16. step2:-Initialisation(set found flag to 0)\
+17. step3:-loop through memoryblocks\
+18. step4:-if 'found'flag is 1,memory allocated successfully\
+19. step5:-if 'found'flag is 0,not enough space is available for allocation\
+20. step6:-End of program
+
+21. 14.c program for organisefile using singlelevel directory\
+22. Algorithm:-\
+23. step1:-file structure\
+24. step2:-Directory structure(not needed for single level directory)\
+25. step3:-operation(like create newfile,delete file,list file,search file,Exit)\
+26. step4:-Enter the operation to perform
+27. step5:-file can be created ,listed,updated it continue till exit\
+28. step6:-End of program
+
+29. 15.c program to organize file using two level directory structure\
+30. Algorithm:-\
+31. step1:-file structure(structfile contain attributes suchas name,size)\
+32. step2:-struct directory(directory attribute suchas name,list of files)\
+33. step3:-Enter directoryname and parent directory\
+34. step4:-perform operation(create directory,create file,delete file,listfile,exit)\
+35. step5:-Initialize filesystem\
+36. step6:-End of program
