@@ -107,7 +107,7 @@ step4:-synchronization\
 step5:-Implementation using loop\
 step6:-End of program
 
-13. c program for various memory allocation strategies\
+13.c program for various memory allocation strategies\
 Algorithm:-\
 step1:-Input(enter memorysize)\
 step2:-Initialisation(set found flag to 0)\
