@@ -176,6 +176,23 @@ step10:-End of program
  step6:-handling errors and edge cases\
  step7:-End of program
 
+20.program to simulate reader-writer problem using semaphores\
+Algorithm:-\
+step1:-Include number of active readers\
+step2:-simulate work\
+step3:-block writers if first reader\
+step4:-unblock writers if lastreader\
+step5:-End of program
+
+21.Algorithm for cprogram to implement worst fit algorithm of memory managment\
+Algorithm:-\
+step1:-Include size of memory block
+step2:-flag to indicate if block is allocated\
+step3:-Initiate memory blocks\
+step4:-allocate memory from process\
+step5:-End of program
+step5:-
+
 
  
 
