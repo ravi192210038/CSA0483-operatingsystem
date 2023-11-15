@@ -191,7 +191,32 @@ step2:-flag to indicate if block is allocated\
 step3:-Initiate memory blocks\
 step4:-allocate memory from process\
 step5:-End of program
-step5:-
+
+22.c program to implement bestfit algorithm of memory managment\
+Algorithm:-\
+step1:-Initialise memory\
+step2:-process arrival\
+step3:-Allocation\
+step4:-Deallocation\
+step5:-End of program
+
+23.cprogram to implement firstfit algorithm of memorymanagment\
+Algorithm:-\
+step1:-divide memory into partitions\
+step2:-search for first arrival partition can accomidate process\
+step3:-allocate memory into selected partition\
+step4:-process completely deallocate its memory\
+step5:-combine adjacent free partition to avoid fragmentation\
+step6:-End of program
+
+24.cprogram to demonstrate unix systemcalls for filesystem\
+Algorithm:-\
+step1:-Include necessary headerfiles\
+step2:-create newfile and check for errors\
+step3:-write file and close file\
+step4:-read file and check errors in filereading\
+step5:-display read content\
+step6:- End of program
 
 
  
